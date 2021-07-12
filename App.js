@@ -4,7 +4,7 @@ import { Text, View } from 'react-native';
 export default function App() {
   return (
     <View>
-      <Text>A new app!</Text>
+      <Text>Bonjour tout le monde</Text>
     </View>
   );
 }
